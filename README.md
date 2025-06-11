@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hwezah
 - 👀 I’m interested in... Development for the Web;
 - 🌱 I’m currently learning... Many things;
-- 💞️ I’m looking to collaborate on ...Web Projects/FrontEnd;
+- 💞️ I’m looking to collaborate on ...Web Projects/frontEnd/backend;
 - 📫 How to reach me... www.linkedin.com/in/hwezah;
 - 😄 Pronouns: ...
 - ⚡ Fun fact: The Sky is blue..Water is not!
