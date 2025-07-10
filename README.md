@@ -1,6 +1,6 @@
 # Hi, I'm Kenneth 👋
 
-I'm a front-end developer passionate about crafting responsive, accessible interfaces with React, NextJs and Tailwind CSS.  
+I'm a front-end developer passionate about crafting responsive, accessible interfaces with React and Tailwind CSS.  
 I also work with WordPress and am exploring full-stack tools like Next.js and Supabase.  
 Currently seeking junior front-end opportunities and collaborative projects!
 
