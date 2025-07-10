@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Hwezah
-- 👀 I’m interested in... Development for the Web;
-- 🌱 I’m currently learning... Many things;
-- 💞️ I’m looking to collaborate on ...Web Projects/frontEnd/backend;
-- 📫 How to reach me... www.linkedin.com/in/hwezah;
-- 😄 Pronouns: ...
+# Hi, I'm Kenneth 👋
+
+I'm a front-end developer passionate about crafting responsive, accessible interfaces with React, NextJs and Tailwind CSS.  
+I also work with WordPress and am exploring full-stack tools like Next.js and Supabase.  
+Currently seeking junior front-end opportunities and collaborative projects!
+
+## 📌 Pinned Projects
+👉 Check out my pinned repos below for examples of my work.
+
+## 📫 Connect with me
+- [Portfolio](https://portfolio-two-orpin-26.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/hwezah/)
+- [Email](hwezah.dev@gmail.com)
+- 
 - ⚡ Fun fact: The Sky is blue..Water is not!
 
 <!---
